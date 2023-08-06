@@ -1,5 +1,8 @@
-prepare
-shower
-play
-fix
-write
+Make soup
+Clean the code
+Buy the painting
+New order
+We just made default arg
+Buy grocery
+Master Python!
+Anything
