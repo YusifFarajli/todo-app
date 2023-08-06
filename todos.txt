@@ -1,8 +1,6 @@
 Make soup
 Clean the code
 Buy the painting
-New order
-We just made default arg
+Play footballWe just made default arg
 Buy grocery
-Master Python!
-Anything
+Buy plants
